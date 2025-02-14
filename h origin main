@@ -1,0 +1,17 @@
+[33mcommit c8b1327310e0f227ac3651f8ff44041ceac16681[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: abba-419 <192233033+abba-419@users.noreply.github.com>
+Date:   Thu Feb 13 11:26:23 2025 -0600
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 3f4cf0a26935d06aa1333cb8f3a4e4b5ad0ab662[m
+Author: abba-419 <192233033+abba-419@users.noreply.github.com>
+Date:   Thu Feb 13 09:14:58 2025 -0600
+
+    Add hello_world.txt
+
+[33mcommit b302ba3e2b879b3c2b06113637bbbf9036e97d80[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: abba-419 <192233033+abba-419@users.noreply.github.com>
+Date:   Mon Feb 10 15:45:59 2025 -0600
+
+    Initial commit
